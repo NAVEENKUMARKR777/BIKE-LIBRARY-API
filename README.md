@@ -21,4 +21,5 @@ Swagger documentation is available at `/api`.
 ## Testing
 
 You can use tools like Postman or curl to test the API endpoints.
+
 API in action postman screenshots are present with the files
