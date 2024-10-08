@@ -1,0 +1,9 @@
+{
+    "extends": "./tsconfig.json",                // Extend from the base tsconfig.json
+    "compilerOptions": {
+      "outDir": "./dist"                         // Output directory for build files
+    },
+    "include": ["src/**/*", "test/**/*.ts"],    // Include TypeScript files from src and test directories
+    "exclude": ["node_modules", "dist"]         // Exclude the node_modules and dist directories
+  }
+  
